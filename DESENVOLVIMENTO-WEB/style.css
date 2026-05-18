@@ -49,3 +49,22 @@ button {
     border-radius: 6px;
     cursor: pointer;
 }
+button {
+    width: 100%;
+    padding: 0.7rem;
+    margin-top: 10px;
+    background: #4facfe;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}button {
+    width: 100%;
+    padding: 0.7rem;
+    margin-top: 10px;
+    background: #4facfe;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
